@@ -342,8 +342,18 @@
             </ul>
           </div>
         </div>
-
+        
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
+          
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/Projects/library.png" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/Projects/library.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+              </div>
+            </div>
+          </div>
           
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
@@ -355,6 +365,16 @@
             </div>
           </div>
 
+          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+            <div class="portfolio-wrap">
+              <img src="assets/img/Projects/spotify.png" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/Projects/spotify.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
+              </div>
+            </div>
+          </div>
+          
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
               <img src="assets/img/Projects/flipkart.png" class="img-fluid" alt="">
@@ -370,16 +390,6 @@
               <img src="assets/img/Projects/img-gal.png" class="img-fluid" alt="">
               <div class="portfolio-links">
                 <a href="assets/img/Projects/img-gal.png" data-gallery="portfolioGallery" class="portfolio-lightbox" ><i class="bx bx-plus"></i></a>
-                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/Projects/library.png" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/Projects/library.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
                 <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
               </div>
             </div>
@@ -415,15 +425,6 @@
             </div>
           </div>
 
-          <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-            <div class="portfolio-wrap">
-              <img src="assets/img/Projects/spotify.png" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="assets/img/Projects/spotify.png" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
-                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
-              </div>
-            </div>
-          </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
