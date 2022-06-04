@@ -91,9 +91,7 @@
         <div class="section-title">
           <h2>About</h2>
           <p>I am a third-year student of B-com E-Commerce. I am a reliable Intern seeking an internship 
-            opportunity to expand skills and gain valuable real-world experience. I have interest 
-            in Web based technologies. I am dedicated to maintain a full-time position that offers 
-            professional challenges with excellent time management and problem-solving skills.
+            opportunity to expand skills and gain valuable real-world experience.
           </p><br>
         </div>
 
@@ -593,7 +591,7 @@
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>iamkamilshaikh.co@gmail.com/p>
+                <p>iamkamilshaikh.co@gmail.com</p>
               </div>
 
               <div class="phone">
